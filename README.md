@@ -43,7 +43,7 @@ The project uses SQL for data analysis and Google Looker Studio for interactive 
 
 ## Interactive Dashboard
 
-[View E-Commerce Supply Chain Analytics Dashboard]((https://datastudio.google.com/reporting/29be349e-f8aa-4a00-ae64-8fd2363f9943))
+[**View Interactive Looker Studio Dashboard →**](https://datastudio.google.com/reporting/29be349e-f8aa-4a00-ae64-8fd2363f9943)
 
 ## Repository Structure
 
